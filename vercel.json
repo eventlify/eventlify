@@ -6,7 +6,7 @@
   "functions": {
     "api/*.js": {
       "runtime": "nodejs12.x",
-      "timeout": 30 // Set the timeout to 30 seconds
+      "timeout": 50
     }
   }
 }
